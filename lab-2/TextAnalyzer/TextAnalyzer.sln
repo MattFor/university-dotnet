@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalyzer", "TextAnalyzer\TextAnalyzer.csproj", "{D1CEC0A7-5928-4CA3-9B9A-18B5F0E9905A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TextAnalyzer.Tests", "TextAnalyzer.Tests\TextAnalyzer.Tests.csproj", "{4E41B49D-C718-43F2-88C5-E5795A29609C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1CEC0A7-5928-4CA3-9B9A-18B5F0E9905A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D1CEC0A7-5928-4CA3-9B9A-18B5F0E9905A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D1CEC0A7-5928-4CA3-9B9A-18B5F0E9905A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D1CEC0A7-5928-4CA3-9B9A-18B5F0E9905A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E41B49D-C718-43F2-88C5-E5795A29609C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E41B49D-C718-43F2-88C5-E5795A29609C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E41B49D-C718-43F2-88C5-E5795A29609C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E41B49D-C718-43F2-88C5-E5795A29609C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+[submodule "tasks"]
+	path = tasks
+	url = https://github.com/lswiszcz/PK-.NET-2026
+[submodule "project/PrzychodniaMedyczna"]
+	path = project/PrzychodniaMedyczna
+	url = git@github.com:Krisuniooo/PrzychodniaMedyczna.git
